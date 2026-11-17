@@ -1,0 +1,6 @@
+{
+  "name": "Personal Project Manager",
+  "description": "Da nota ad attività: estrai azioni concrete ancora da svolgere, modifica l'anteprima e conferma la lista della sessione.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
